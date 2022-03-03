@@ -9,7 +9,12 @@ This visualization will focus on the productivity of each agent employed at the 
 <img src="https://github.com/Peaganciara/Law-Firm-Professionals/blob/main/LAE%20pppppp.JPG" width="800" height="auto" alt="SS 1"/>
 
 
-     Another area of focus for productivity would be the Agent's conversion rate or ability to obtain retainers in relation to the amount of calls they make. An agent may only make 15 calls but able to produce 14 retainers, while others may make 90 calls and obtain the same amount of retainers. The agent conversion rate allows the company to determine the quality of the calls an agent is making and which agents may need further training in quality assurance. 
+
+     Another area of focus for productivity would be the Agent's conversion rate or ability to obtain retainers in relation to the amount of calls they make.
+     An agent may only make 15 calls but able to produce 14 retainers, while others may make 90 calls and obtain the same amount of retainers. 
+     The agent conversion rate allows the company to determine the quality of the calls an agent is making and which agents may need further training in quality assurance. 
+     
+     
 [Agent Conversion Rate](https://public.tableau.com/app/profile/peagan.mitchell/viz/LAEConversionRatesPerAgent/Dashboard1)
 
 
