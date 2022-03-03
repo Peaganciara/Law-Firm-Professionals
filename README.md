@@ -7,3 +7,10 @@ This visualization will focus on the productivity of each agent employed at the 
 
 
 <img src="https://github.com/Peaganciara/Law-Firm-Professionals/blob/main/LAE%20pppppp.JPG" width="800" height="auto" alt="SS 1"/>
+
+
+
+
+<img src="https://github.com/Peaganciara/Law-Firm-Professionals/blob/main/LAE%20Conversion%20Rate.JPG" width="800" height="auto" alt="SS 1"/>
+
+
